@@ -22,7 +22,7 @@
                 <a:a name="IMPORTER_INFO" value="@DEF"/>
               </d:var>
               <d:lst name="OsCounter" type="MAP">
-                <d:ctr name="OsCounter_0" type="IDENTIFIABLE">
+                <d:ctr name="OsRteCounter" type="IDENTIFIABLE">
                   <d:var name="OsCounterMaxAllowedValue" type="INTEGER" 
                          value="1000"/>
                   <d:var name="OsCounterMinCycle" type="INTEGER" value="1000"/>
